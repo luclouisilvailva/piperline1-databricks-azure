@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "databricks-1pipeline"
+		},
+		"databricks_factore_link_accessToken": {
+			"value": ""
+		},
+		"databricks_factore_link_properties_typeProperties_existingClusterId": {
+			"value": "0203-024025-8w44mxu9"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
